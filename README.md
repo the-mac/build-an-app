@@ -17,4 +17,4 @@ The SRS - Fast Food Menu Prices v2.0.pdf file is a Software Requirements Specifi
 
 ### Who do I talk to about repo details? ###
 
-* Repo owner @cdm2012 or christopher.miller.in.la@gmail.com
+* Repo owner [@cdm2012](https://github.com/cdm2012) or [The Mobile Applications Community](https://github.com/the-mac)
