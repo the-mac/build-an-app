@@ -8,12 +8,12 @@ The SRS - Fast Food Menu Prices v2.0.pdf file is a Software Requirements Specifi
 
 ### Existing Template Versions ###
 * Version 0.1 of the SRS (Customization ready template that needs replacements)
-* Version 0.3 of the SRS (Customization ready template that is prepared for app/service summary)
+* Version 0.4 of the SRS (Customization ready template that is prepared for app/service summary)
 
 ### How do I get started? ###
 * Version 0.1 should be updated to 0.2 and all "Your App" references replaced
 
-* Version 0.2 (Electronically Signed by Developer) should be copied to Version 0.3 with additions from 0.3 template (SRS - Application Intro Template v0.3.doc).
+* Version 0.3 (Electronically Signed by Developer) should be copied to Version 0.4 (and updated simlar to SRS - Application Intro Template v0.4.doc).
 
 ### Who do I talk to about repo details? ###
 
