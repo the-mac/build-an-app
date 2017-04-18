@@ -1,10 +1,11 @@
 =======
 # README #
 
-### What is this repository for? ###
+### Quick Project Summary ###
+* The project is within the initial template structure
 
-* Quick Project Summary
-* Version Updates
+### Version Updates ###
+* Version 0.1 of the repo and SRS
 
 ### How do I get set up? ###
 
